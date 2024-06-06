@@ -10,7 +10,9 @@ In this file, it holds all the necessary images, paragraphs and buttons/links ne
 This file contains all the manipulation of elements needed to match similarily to what was given on the desired photo given by the Odin Project
 
 
-### How this project went:
+
+
+## How this project went:
 The html part got done pretty quickly, just copying what was seen on the photo given to me. 
 
 For the CSS part, it took some time to understand things not taught in the course. Things like how to make the hero fixed at the top and. 
